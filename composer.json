@@ -1,0 +1,17 @@
+{
+  "name": "bnmkt/crud",
+  "description": "Crud",
+  "authors": [
+    {
+      "name": "Bnmkt",
+      "email": "bonhomme.kt@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Blog\\Controllers\\": "controllers/",
+      "Blog\\Models\\": "models/"
+    }
+  }
+}

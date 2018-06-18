@@ -1,0 +1,9 @@
+label, input, textarea {
+    width: 90%;
+    display: block;
+    border-radius: 5px;
+}
+
+label, input[type="submit"], button {
+    margin-top: .8em;
+}
